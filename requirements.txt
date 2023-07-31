@@ -67,7 +67,6 @@ nbformat==5.9.1
 nest-asyncio==1.5.7
 nodejs==0.1.1
 notebook==7.0.0
-notebook_shim==0.2.3
 numpy==1.25.1
 optional-django==0.1.0
 overrides==7.3.1
@@ -90,9 +89,6 @@ PyGetWindow==0.0.9
 Pygments==2.15.1
 pymdown-extensions==10.1
 PyMsgBox==1.0.9
-pyobjc-core==9.2
-pyobjc-framework-Cocoa==9.2
-pyobjc-framework-Quartz==9.2
 pyperclip==1.8.2
 PyRect==0.2.0
 pyscreenshot==3.1
