@@ -14,6 +14,6 @@ from flask import Flask, render_template
 
 Page = Flask(__name__)
 
-@app.route('/')
+@Page.route('/')
 def index():
   return "Hello World!"
