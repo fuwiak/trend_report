@@ -1,1 +1,1 @@
-web: uvicorn main:Page --reload --port 5000
+web: uvicorn main:Page --reload --host=0.0.0.0 --port 5000
