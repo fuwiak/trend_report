@@ -27,10 +27,16 @@
 
 from flask import Flask
 import solara.server.flask
+from flask import Flask, render_template_string
+
+from sol import Page
 
 app = Flask(__name__)
 app.register_blueprint(solara.server.flask.blueprint, url_prefix="/solara/")
 
 @app.route("/")
 def hello_world():
-    return "<p>Hello, World!</p>"
+    return render_template_string("""
+    <p>Hello, World!</p>
+    <iframe src="/solara/Page" width="100%" height="600px"></iframe>
+    """)
