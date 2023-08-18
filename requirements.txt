@@ -141,3 +141,4 @@ Werkzeug==2.3.6
 widgetsnbextension==4.0.8
 wikipedia==1.4.0
 simple_websocket
+flask_sock
