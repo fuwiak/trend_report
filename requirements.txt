@@ -145,4 +145,4 @@ flask_sock
 altair
 plotly
 matplotlib
-
+vega_datasets
