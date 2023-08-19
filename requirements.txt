@@ -143,3 +143,4 @@ wikipedia==1.4.0
 simple_websocket
 flask_sock
 altair
+plotly
