@@ -144,3 +144,4 @@ simple_websocket
 flask_sock
 altair
 plotly
+matplotlib
