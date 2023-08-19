@@ -151,3 +151,4 @@ ipyleaflet
 solara-enterprise
 authlib
 httpx
+pytest-playwright
