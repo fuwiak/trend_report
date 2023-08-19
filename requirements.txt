@@ -147,3 +147,4 @@ plotly
 matplotlib
 vega_datasets
 bqplot
+ipyleaflet
