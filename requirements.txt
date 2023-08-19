@@ -149,3 +149,4 @@ vega_datasets
 bqplot
 ipyleaflet
 solara-enterprise
+authlib
