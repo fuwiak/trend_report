@@ -146,3 +146,4 @@ altair
 plotly
 matplotlib
 vega_datasets
+bqplot
